@@ -1,0 +1,182 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% My Moleskine Basic Template
+% LaTeX Template
+% 
+% for Moleskine page size: large 13x21 cm 
+% Version 0.1
+%
+% This template is available at:
+% http://www.github.com/hannic
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Compiling this template:
+% When you first open the template, compile it from the command line with the 
+% commands below to make sure your LaTeX distribution is configured correctly:
+%
+% 1) lorem ipsum
+% 2) lorem ipsum
+%
+% This template also uses a number of packages which may need to be
+% updated to the newest versions for the template to compile. It is strongly
+% recommended you update your LaTeX distribution if you have any
+% compilation errors.
+% 
+% * Layout size (page size) defined by using package geometry and \geometry command 
+% * Define color "my-grey" for Text 
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+% !!!! = my helper shortcuts etc = !!!!
+% 
+% cmd + alt => vertical selection 
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+% PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+\documentclass[english,a4paper]{article}
+\usepackage{geometry}
+\geometry{a4paper, layoutwidth=17cm, layoutheight=28cm}
+\usepackage{fancybox}
+\usepackage{babel}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{afterpage}
+\usepackage{fancyhdr}
+\usepackage{xcolor}                     % https://en.wikibooks.org/wiki/LaTeX/Colors
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\definecolor{my-grey}{HTML}{696969}     
+\usepackage[absolute]{textpos}
+\usepackage[skins]{tcolorbox}
+\usepackage{lipsum}
+\usepackage{%
+    ngerman,
+    graphicx,
+    url,
+    lmodern,
+    fontenc,
+    paralist,
+    pifont,
+    amsmath,amssymb,latexsym,           % http://zelmanov.ptep-online.com/ctan/symbols.pdf
+                                        % https://sites.math.washington.edu/~reu/docs/latex_symbols.pdf
+    marvosym, dashrule                  % dashrule for dotted underlines 
+                                        % http://tug.ctan.org/macros/latex/contrib/dashrule/dashrule.pdf
+    }
+% === path to graphics
+\graphicspath{ {images/} }
+
+% === smartdiagram
+\usepackage{smartdiagram}
+
+% === shapes
+\usepackage{tikz}
+\usetikzlibrary{shapes}
+\usepackage{verbatim}
+
+%----------------------------------------------------------------------------------------
+% DEFINE PAGESTYLE
+%----------------------------------------------------------------------------------------
+\pagestyle{fancy}
+
+\color{my-grey}
+
+% clear any old style settings
+\fancyhead{}
+\fancyfoot{}
+
+% define new headers/footers
+\lhead{\tiny Moleskine Template (Size: Large) }
+\rhead{\tiny \today}
+\lfoot{\huge \hspace{0.25cm} \Rightscissors \hspace{0.55cm}}
+\rfoot{\tiny \thepage\ of \pageref{LastPage}}
+
+
+% define layout 
+% thin border with rounded corner  (fancybox > ovalbox)
+\fancypage{ \setlength{\fboxsep}{5pt}\ovalbox}{}
+
+% === item overwritten used with "itemize"
+\renewcommand{\labelitemi}{$\bigcirc$}
+\renewcommand{\labelitemii}{\ding{74}}
+
+
+%----------------------------------------------------------------------------------------
+% BEGIN DOCUMENT
+%----------------------------------------------------------------------------------------
+\begin{document}
+\thispagestyle{fancy}
+%----------------------------------------------------------------------------------------
+% CONTENTS
+%----------------------------------------------------------------------------------------
+
+\textcolor{my-grey}{  
+  \textsf{ \hspace{0.25cm} \Large \ding{74}  {\bfseries My Bucket List} }  }
+% horizontal line\hrulefill
+
+\hrulefill
+
+\begin{tabular}{p{0.4\textwidth}|p{0.5\textwidth}}
+
+  \begin{itemize}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}
+    \item \hdashrule{3.5cm}{1pt}{1pt}    
+  \end{itemize} & 
+  \begin{itemize}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+    \item \hdashrule{4cm}{1pt}{1pt}
+  \end{itemize}
+\end{tabular}
+
+\end{document}
+
