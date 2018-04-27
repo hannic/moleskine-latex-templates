@@ -7,7 +7,7 @@ Moleskine Templates in Latex for printing and/or editing
 3. And stick it into your Notebook
 
 
-<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/smoleskine-latex-cornell-notes.png" width="300" height="400" />
+<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" />
 
 
 
