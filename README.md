@@ -4,6 +4,7 @@ Moleskine Templates in LaTeX for your Bullet Journal or your Scrapbook. Either p
 Even better, do create a reusable template. 
 
 Current templates are for Moleskine notebooks size: LARGE (width: 13 cm) 
+
 <img src="https://milligram.com/media/wysiwyg/Moleskine_Classic_01.jpg" width="250"  />
 
 
