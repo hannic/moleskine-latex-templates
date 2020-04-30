@@ -2,6 +2,8 @@
 
 Moleskine Templates in Latex for printing and/or editing
 - for Moleskine Notebooks Size: Large
+<img src="https://milligram.com/media/wysiwyg/Moleskine_Classic_01.jpg" width="150"  />
+
 
 ## Usage 
 
