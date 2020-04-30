@@ -11,11 +11,14 @@ Moleskine Templates in Latex for printing and/or editing
 
 ## Getting Started
 
-Clone the repository
+Clone or downlaod the repository. 
+Print the template. 
+Modify the template. 
 
 ### Prerequisites
 
 LaTeX installed, and a appropriate LaTeX Editor, e.g. Sublime 
+LaTeX packages used: tbd 
 
 <img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" />
 
