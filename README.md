@@ -1,7 +1,9 @@
 # Moleskine-Latex-Templates
 
-Moleskine Templates in LaTeX for printing and/or editing
-- for Moleskine Notebooks Size: Large
+Moleskine Templates in LaTeX for your Bullet Journal or your Scrapbook. Either print or customize the given examples. 
+Even better, do create a reusable template. 
+
+Current templates are for Moleskine notebooks size: LARGE (width: 13 cm) 
 <img src="https://milligram.com/media/wysiwyg/Moleskine_Classic_01.jpg" width="250"  />
 
 
