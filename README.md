@@ -1,4 +1,4 @@
-# moleskine-latex-templates
+# Moleskine-Latex-Templates
 
 Moleskine Templates in Latex for printing and/or editing
 - for Moleskine Notebooks Size: Large
