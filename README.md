@@ -5,7 +5,7 @@ Even better, do create a reusable template.
 
 Current templates are for Moleskine notebooks size: LARGE (width: 13 cm) 
 
-<img src="https://milligram.com/media/wysiwyg/Moleskine_Classic_01.jpg" width="250"  />
+<img src="https://www.leoprinting.de/files/photos/Moleskine%C2%AE/1-Moleskine_sizes.jpg" width="250"  />
 
 
 ## Usage 
