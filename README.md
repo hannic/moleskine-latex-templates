@@ -28,10 +28,13 @@ LaTeX packages used: tbd
 ## Examples
 - [x] Bucket List
 - [x] Cornell Notes 
+- [x] Blank Page with Title and Category Section  
 - [ ] Birthday Calender  
 - [ ] Brain Dump  
 
 <img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" />
+
+<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-page-blank.png" width="300" height="400" />
 
 ## Authors
 https://github.com/hannic
