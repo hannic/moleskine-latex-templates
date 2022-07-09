@@ -30,6 +30,7 @@ LaTeX packages used: tbd
 - [x] Cornell Notes 
 - [x] Blank Page with Title and Category Section  
 - [ ] Birthday Calender  
+- [ ] Year in Pixels
 - [ ] Brain Dump  
 - [ ] Eisenhower Matrix
 - [ ] Timeline Template
