@@ -36,6 +36,8 @@ LaTeX packages used: tbd
 - [ ] Timeline Template
 - [ ] SWOT Analysis
 - [ ] Elevator Pitch Template
+- [ ] Achievments List 
+
 
 
 <img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-blank-page.png" width="300" height="400" />
