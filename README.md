@@ -36,7 +36,9 @@ LaTeX packages used: tbd
 - [ ] Timeline Template
 - [ ] SWOT Analysis
 - [ ] Elevator Pitch Template
-- [ ] Achievments List 
+- [ ] Achievments List
+- [ ] About
+- [ ] New Year Resolution
 
 
 
