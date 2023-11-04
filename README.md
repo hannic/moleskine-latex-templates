@@ -5,7 +5,7 @@ Even better, do create a reusable template.
 
 Current templates are for Moleskine notebooks size: LARGE (width: 13 cm) 
 
-<img src="https://milligram.com/media/wysiwyg/Moleskine_Classic_01.jpg" width="250"  />
+<img src="https://www.leoprinting.de/files/photos/Moleskine%C2%AE/1-Moleskine_sizes.jpg" width="250"  />
 
 
 ## Usage 
@@ -30,11 +30,19 @@ LaTeX packages used: tbd
 - [x] Cornell Notes 
 - [x] Blank Page with Title and Category Section  
 - [ ] Birthday Calender  
+- [ ] Year in Pixels
 - [ ] Brain Dump  
+- [ ] Eisenhower Matrix
+- [ ] Timeline Template
+- [ ] SWOT Analysis
+- [ ] Elevator Pitch Template
+- [ ] Achievments List
+- [ ] About
+- [ ] New Year Resolution
 
-<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" />
 
-<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-blank-page.png" width="300" height="400" />
+
+<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-blank-page.png" width="300" height="400" />
 
 ## Authors
 https://github.com/hannic
