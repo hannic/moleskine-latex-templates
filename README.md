@@ -30,7 +30,7 @@ LaTeX packages used: tbd
 - [x] Cornell Notes 
 - [x] Blank Page with Title and Category Section  
 - [ ] Birthday Calender  
-- [ ] Year in Pixels
+- [X] Year in Pixels
 - [ ] Brain Dump  
 - [ ] Eisenhower Matrix
 - [ ] Timeline Template
@@ -42,7 +42,7 @@ LaTeX packages used: tbd
 
 
 
-<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-blank-page.png" width="300" height="400" />
+<img src="https://github.com/hannic/moleskine-latex-templates/blob/master/screenshot-bullet-list.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-cornell-notes.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-latex-blank-page.png" width="300" height="400" /><img src="https://github.com/hannic/moleskine-latex-templates/blob/master/moleskine-years-in-pixel.png" width="300" height="400" />
 
 ## Authors
 https://github.com/hannic
